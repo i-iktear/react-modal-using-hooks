@@ -102,7 +102,7 @@ const Modal = ({ showModal, setShowModal }) => {
               <ModalImg src={require("./modal.jpg")} alt="Modal"></ModalImg>
               <ModalContent>
                 <h1>Hey, Iktear Uddin Here!</h1>
-                <p> To get in touch with me just click on the button below</p>
+                <p> To get in touch with me, just click on the button below</p>
                 <button>Contact me</button>
               </ModalContent>
               <CloseModalButton
